@@ -1,4 +1,4 @@
-package dependentlearners.com.logging;
+package com.dependentlearners.logging;
 
 import org.apache.logging.log4j.ThreadContext;
 import org.slf4j.Logger;

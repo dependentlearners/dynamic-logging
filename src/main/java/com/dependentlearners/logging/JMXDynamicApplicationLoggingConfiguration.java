@@ -1,4 +1,4 @@
-package dependentlearners.com.logging;
+package com.dependentlearners.logging;
 
 import org.apache.logging.log4j.Level;
 import org.apache.logging.log4j.LogManager;
